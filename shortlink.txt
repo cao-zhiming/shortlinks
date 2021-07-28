@@ -1,7 +1,0 @@
-caoz.ml —> caozhiming.tk
-
-A short link service, manually operated. 
-
-Shortlink: caoz.ml/*
-
-More Caozhiming projects: ss.caozhiming.tk, caoz.ml
